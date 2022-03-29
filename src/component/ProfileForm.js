@@ -43,6 +43,7 @@ const ProfileForm = ({ submit }) => {
             value={profile.phone} 
             />
        </fieldset>
+       <button onclick={handleSubmit}>Add writer</button>
   </form>
   );
 };
