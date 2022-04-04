@@ -29,4 +29,4 @@ const setLocalStorage =(value) => {
   return [value, useLocalStorage];
 };
 
-export default useLocalStorage
+export default useLocalStorages 
